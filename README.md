@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/gyenabubakar](https://github.com/gyenabubakar)
+- 👨‍💻 All of my projects are available at [github.com/gyenabubakar](https://github.com/gyenabubakar)
 
-- 📝 I regularly write articles on [https://blog.gyen.dev](https://blog.gyen.dev)
+- 📝 I write articles on [blog.gyen.dev](https://blog.gyen.dev)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, and Firebase.**
 
