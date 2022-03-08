@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Node.js and Go.**
 
-- 👯 I’m looking to collaborate on [TaskSheet](https://tasksheet.netlify.app)
+- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gyenabubakar](https://github.com/gyenabubakar)
 
