@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/gyenabubakar](https://github.com/gyenabubakar)
 
-- 📝 I write articles at [codewith.gyen.dev](https://codewith.gyen.dev)
+- 📝 I write articles at [blog.gyen.dev](https://blog.gyen.dev)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, and Firebase.**
 
