@@ -11,17 +11,19 @@
 
 <br />
 
-- 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app)
+> I'm currently designing my portfolio in Figma and I promise to develop it soon and ship it. 🥲
 
-- 🌱 I’m currently learning **MongoDB, Node.js and Go.**
 
-- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app)
 
-- 👨‍💻 All of my projects are available at [github.com/gyenabubakar](https://github.com/gyenabubakar)
+<!-- - 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app) -->
+
+- 🌱 I’m currently learning **iOS development – Swift/SwiftUI/UIKit**.
+
+- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app) and [Lyrebird](https://https://github.com/gyenabubakar/lyrebird-client).
 
 - 📝 I write articles at [blog.gyen.dev](https://blog.gyen.dev)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, and Firebase.**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Svelte(Kit) and Swift.**
 
 - 📫 How to reach me **gyenabubakar@gmail.com**
 
