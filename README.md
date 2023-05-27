@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **iOS development – Swift/SwiftUI/UIKit**.
 
-- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app) and [Lyrebird](https://https://github.com/gyenabubakar/lyrebird-client).
+- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app) and [Lyrebird](https://github.com/gyenabubakar/lyrebird-client).
 
 - 📝 I write articles at [blog.gyen.dev](https://blog.gyen.dev)
 
