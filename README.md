@@ -16,7 +16,7 @@
 
 <!-- - 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app) -->
 
-- 🌱 I’m currently learning **iOS development – Swift/SwiftUI/UIKit**.
+- 🌱 I’m currently learning **Rust**.
 
 - 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app) and [Lyrebird](https://github.com/gyenabubakar/lyrebird-client).
 
