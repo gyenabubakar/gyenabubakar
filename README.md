@@ -11,8 +11,6 @@
 
 <br />
 
-> I'm currently designing my portfolio in Figma and I promise to develop it soon and ship it. 🥲
-
 
 <!-- - 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app) -->
 
