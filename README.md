@@ -14,12 +14,10 @@
 
 <!-- - 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app) -->
 
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m learning **Rust**.
 
-- 👯 I’m looking to collaborate on [TaskSheet](https://github.com/gyenabubakar/tasksheet-app) and [Lyrebird](https://github.com/gyenabubakar/lyrebird-client).
+- 👯 I’m building [Survie](https://github.com/gyenabubakar/survie-app).
 
 - 📝 I write articles at [blog.gyen.dev](https://blog.gyen.dev)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Svelte(Kit) and Swift.**
-
-- 📫 How to reach me **gyenabubakar@gmail.com**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Svelte(Kit) and Node.js.**
