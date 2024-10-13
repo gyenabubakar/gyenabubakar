@@ -14,7 +14,7 @@
 
 <!-- - 🔭 I’m currently working on [TaskSheet: an open-source project management tool built with software engineers in mind.](https://tasksheet.netlify.app) -->
 
-- 🌱 I’m learning **PostgreSQL and Swift**.
+- 🌱 I’m learning **Swift**.
 
 - 👯 I’m building [Survie](https://github.com/gyenabubakar/survie-app).
 
