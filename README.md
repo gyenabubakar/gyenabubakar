@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyen Abubakar.</h1>
-<h3 align="center">A front-end engineer based in Accra, Ghana.</h3>
+<h3 align="center">A full-stack engineer based in Accra, Ghana.</h3>
 
 <br />
 
